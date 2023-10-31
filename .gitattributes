@@ -1,2 +1,1 @@
-* linguist-vendored
-*.stl linguist-vendored=false
+*.stl linguist-language=STL
